@@ -103,10 +103,23 @@ https://colab.research.google.com/github/Vaishnavi-220706/AI-CAREER-RECOMMENDER/
 
 ## 📘 Career Guidance Sample
 
-```text
-Career: Data Scientist
 
-Guidance:
-Start with Python, statistics, and machine learning.
-Learn to use tools like Pandas, NumPy, and Scikit-learn.
-Practice with real datasets and build a portfolio on GitHub or Kaggle.
+Once a user inputs their skill, interest, and personality, the system not only predicts the most suitable career but also offers practical guidance. Below is a sample output:
+
+**Recommended Career:** HR Manager
+
+**Career Guidance:**
+Learn HR tools, labor law basics, and improve interpersonal & decision-making skills. Focus on communication development, employee relations, and recruitment strategy. Gain certifications such as SHRM or HRCI, and practice using HRIS software tools like SAP SuccessFactors or Zoho People.
+## 🔮 Future Scope
+
+This project can be enhanced in many ways:
+-🌍 Connect to career/course APIs like Coursera, Udemy, or LinkedIn Learning.
+- 🤖 Use more advanced models (Random Forest, XGBoost, or Transformer-based NLP).
+- 🖥️ Deploy the app as a web interface using Flask or Django.
+- 📱 Extend to a mobile app with React Native or Flutter.
+- Create an AI mentored chatbot
+
+**## 👩‍💻 Author**
+**Name**: Pallagani Vaishnavi  
+**Email**:pallaganivaishnavi@gmail.com
+📍 India 
