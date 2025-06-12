@@ -93,6 +93,11 @@ Ensure your dataset is named:
 3. Mount your Google Drive if the dataset is stored there.
 4. Run the notebook sequentially.
 5. Select options in the dropdown and click **Predict Career**.
+6. ## ▶️ Open in Google Colab
+
+https://colab.research.google.com/github/Vaishnavi-220706/AI-CAREER-RECOMMENDER/blob/main/AI_CARRER_RECOMMENDER_3.ipynb
+
+
 
 ---
 
