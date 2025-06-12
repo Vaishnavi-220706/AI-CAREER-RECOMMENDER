@@ -18,7 +18,6 @@ This project was developed as part of an AI internship to demonstrate how intell
 - [📘 Career Guidance Sample](#-career-guidance-sample)
 - [🔮 Future Scope](#-future-scope)
 - [👩‍💻 Author](#-author)
-- [📜 License](#-license)
 
 ---
 
