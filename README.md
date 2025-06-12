@@ -119,10 +119,11 @@ This project can be enhanced in many ways:
 - 📱 Extend to a mobile app with React Native or Flutter.
 - Create an AI mentored chatbot
 
-**## 👩‍💻 Author**
+## 👩‍💻 Author
 
-**Name**: Pallagani Vaishnavi  
+**Name**: Pallagani Vaishnavi     
+📍 India  
+📧 Email: pallaganivaishnavi@gmail.com
 
-**Email**:pallaganivaishnavi@gmail.com
 
-📍 India 
+This project was created as part of an academic capstone to solve a real-world problem in career guidance using machine learning and interactive AI tools.
