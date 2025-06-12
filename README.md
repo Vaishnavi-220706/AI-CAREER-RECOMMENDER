@@ -120,6 +120,9 @@ This project can be enhanced in many ways:
 - Create an AI mentored chatbot
 
 **## 👩‍💻 Author**
+
 **Name**: Pallagani Vaishnavi  
+
 **Email**:pallaganivaishnavi@gmail.com
+
 📍 India 
